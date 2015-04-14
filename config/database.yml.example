@@ -7,7 +7,7 @@ production:
   database: mydb
   host: db-master1
   username: root
-  password: ""
+  password: <%= ENV["MY_DB_PWD"] %>
   encoding: utf8
 
 development:
