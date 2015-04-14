@@ -4,8 +4,8 @@
 
 production:
   adapter: mysql2
-  database: redmine
-  host: localhost
+  database: mydb
+  host: db-master1
   username: root
   password: ""
   encoding: utf8
