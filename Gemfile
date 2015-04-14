@@ -8,6 +8,7 @@ gem "rails", "4.2.1"
 gem "jquery-rails", "~> 3.1.1"
 gem "coderay", "~> 1.1.0"
 gem "builder", ">= 3.0.4"
+gem ImageMagick
 gem "request_store", "1.0.5"
 gem "mime-types"
 gem "protected_attributes"
